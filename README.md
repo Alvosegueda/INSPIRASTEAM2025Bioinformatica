@@ -1,4 +1,3 @@
-# INSPIRASTEAM2025Bioinformatica
 # Bioinformática en acción: Epidemiología Genómica de Enfermedades Infecciosas  
 **Syllabus & Recursos del Workshop**
 
